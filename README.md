@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning cloud 
 - 📫 How to reach me ranjithkbdpm@gmail.com
-- 😄 Pronouns: Ranjith
+- 😄 Pronouns: he
 - ⚡ Tech I am good at Nextjs, Mern, Mean
 
 <!---
