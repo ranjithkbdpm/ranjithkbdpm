@@ -1,6 +1,6 @@
 - 👋 Hi, This is Ranjith (github ID: @ranjithkbdpm), I am FullStack Developer.
 - 👀 I’m interested in Web development, learing new techs and skills.
-- 🌱 I’m currently learning cloud.
+- 🌱 I’m currently learning cloud, CI/CD pipeline automations.
 - 📫 How to reach me ranjithkbdpm@gmail.com.
 - 😄 Pronouns: he.
 - ⚡ Tech I am good at Nextjs, Mern, Mean.
